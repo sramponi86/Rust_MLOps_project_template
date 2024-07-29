@@ -1,0 +1,1 @@
+C:\Users\diabomba\Rust_MLOps\Rust_MLOps_project_template\trust\target\debug\trust.exe: C:\Users\diabomba\Rust_MLOps\Rust_MLOps_project_template\trust\src\lib.rs C:\Users\diabomba\Rust_MLOps\Rust_MLOps_project_template\trust\src\main.rs
